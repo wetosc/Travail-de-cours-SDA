@@ -1,0 +1,9 @@
+﻿Elaborer un programme forme des fonctions qui sont placées dans une bibliothèque de l’usager, on les appelle a partir d’un menu étage, qui se trouve dans la fonction main et réalisent le activités suivantes, avec les fichiers:
+ - Création des 2 fichiers initiales ;
+ - Formation d’un fichier supplémentaire avec des éléments des fichiers initiales
+ - Affichage des fichiers
+ - Ajout dans les fichiers
+ - Affichage sélectif
+ - Modification des fichiers
+ - Tri des données dans les fichiers (méthode de sélection)
+ - Sortie de programme
